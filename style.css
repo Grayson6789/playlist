@@ -1,0 +1,60 @@
+
+.header {
+  height: 200px;
+  width: 100%;
+  background-color: #9b9b8d;
+  color: white;
+
+}
+.h1 {
+  text-align: left;
+  color: white;
+}
+
+.container {
+  height: 600px;
+  width: 100%;
+}
+div.scrollmenu {
+  background-color: white;
+  overflow: auto;
+  white-space: nowrap;
+}
+div.scrollmenu a:hover {
+  background-color: white;
+}
+.row {
+  flex-direction: row;
+}
+
+.box {
+  width: 60%;
+  height: 60px;
+  background-color: white;
+}
+
+.box2 {
+  width: 100%;
+  height: 250px;
+  background-color: white;
+  border-style: solid;
+  font-size: 25px;
+}
+button {
+  background: #353528;
+  width: 200px;
+  height: 80px;
+  color: white;
+  font-size: 25px;
+}
+
+
+
+
+
+.footer {
+  height: 100px;
+  width: 100%;
+  background-color: #9b9b8d;
+  color: white;
+}
